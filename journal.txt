@@ -1,0 +1,5 @@
+7/24/21
+    Troubleshooting raspberry pi - could not ssh into pi to use soil sensor
+
+7/25/21
+    Created this programming journal and read about markdown
